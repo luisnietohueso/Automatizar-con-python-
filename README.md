@@ -2,7 +2,6 @@
 <html>
 <head>
   <meta charset="UTF-8">
-  <title>Automatizar con Python</title>
 </head>
 <body>
   <div class="container">
