@@ -1,3 +1,10 @@
+"""
+descripcion: en este proyecto usaremos las librerias de pandas y tkinter para programar un sencillo programa para poder saber como deletrear de forma facil y sencilla mas si como yo tienes dixlesia 
+
+autor del codigo: Luis Nieto Hueso
+
+Referencences: documentacion de Pandas: https://pandas.pydata.org/docs/ y tkinter: https://docs.python.org/3/library/tk.html
+"""
 import pandas as pd
 from tkinter import *
 from tkinter import messagebox
